@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/samuel19382293-hue/dungeon-stab-updates/releases/download/v1.0.1/Dungeon.Stabilizer.exe",
-  "notes": "Licensing now recognises partner seller registries, so Stabilizer access works for every seller's customers. Separate from CV; bans, revocations, expiry and HWID still enforced.",
+  "version": "1.0.2",
+  "url": "https://github.com/samuel19382293-hue/dungeon-stab-updates/releases/download/v1.0.2/Dungeon.Stabilizer.exe",
+  "notes": "New Sync & Cue engine: improved Cue Delay and a Sync offset control, smoother warmup, better park/real-match handling. Licensing unchanged (works for every seller's registry).",
   "required": false,
-  "sha256": "fae68a5b112ee904f7aa592540243a39aa82cf7d35e65d19dd21ba5964bc5dc7",
-  "size": 37582336
+  "sha256": "41a72e3503aa7876136fca26d63c9c30caa49f827fca2b3c57c01cdfd40728ba",
+  "size": 37503488
 }
