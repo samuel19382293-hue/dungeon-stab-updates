@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/samuel19382293-hue/dungeon-stab-updates/releases/download/v1.0.0/Dungeon.Stabilizer.exe",
-  "notes": "First release. Dungeon-branded UI around the Sync & Cue stabilizer engine. Discord + HWID licensed (separate access from the CV). Auto-updates built in.",
+  "version": "1.0.1",
+  "url": "https://github.com/samuel19382293-hue/dungeon-stab-updates/releases/download/v1.0.1/Dungeon.Stabilizer.exe",
+  "notes": "Licensing now recognises partner seller registries, so Stabilizer access works for every seller's customers. Separate from CV; bans, revocations, expiry and HWID still enforced.",
   "required": false,
-  "sha256": "471eb607cca4f91dfeaac8f8c461ddb3199d64a2e95f8a50f87885ea5c7c052d",
-  "size": 37578240
+  "sha256": "fae68a5b112ee904f7aa592540243a39aa82cf7d35e65d19dd21ba5964bc5dc7",
+  "size": 37582336
 }
